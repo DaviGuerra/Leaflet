@@ -1,0 +1,10 @@
+## Interface: 70000
+## Title: Leaflet - RDSW
+## Author: Manaleaf-Sargeras
+## Version 1.0
+## SavedVariables: LFLT
+Init.lua
+GUI.lua
+Calc.lua
+Replay.lua
+EventHandler.lua
